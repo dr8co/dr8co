@@ -1,3 +1,5 @@
+![Header](./header-dark.png)
+
 # 💫 About Me:
 🔭 I’m currently working on Low-level programming<br>👯 I’m looking to collaborate on C and C++ projects<br>🌱 I’m currently learning Data Structures and Algorithms<br>📧 Contact me at dr8co@duck.com
 
