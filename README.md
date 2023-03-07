@@ -1,12 +1,6 @@
-![Header](./github-header-dark.png)
-
 # 💫 About Me:
 🔭 I’m currently working on Low-level programming<br>👯 I’m looking to collaborate on C and C++ projects<br>🌱 I’m currently learning Data Structures and Algorithms<br>📧 Contact me at dr8co@duck.com
 
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ian23) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/dr8c00) 
 
 # 💻 Tech Stack:
 
