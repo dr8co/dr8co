@@ -8,6 +8,10 @@
 
 # 📊 GitHub Stats:
 
+## Contributions in the last year
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 ## Total Contributions
 
 ![](https://github-readme-stats.vercel.app/api?username=dr8co&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
@@ -16,13 +20,5 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dr8co&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## Contributions in the last year
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=dr8co&icon=0&color=11)](https://visitcount.itsvg.in)
-
