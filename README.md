@@ -1,6 +1,6 @@
 ## 💫 Hi there, I'm Ian
 
-I am a software engineer with expertise in DevOps and Cloud engineering.
+I am a software engineer with a focus on DevOps and Cloud engineering.
 I am passionate about designing and developing robust software systems that are
 scalable, maintainable, and efficient.
 
