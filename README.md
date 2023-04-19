@@ -1,24 +1,29 @@
-# 💫 Hi there,
-🔭 I’m currently working on Low-level programming<br>👯 I’m looking to collaborate on C and C++ projects<br>🌱 I’m currently learning Data Structures and Algorithms<br>📧 Contact me at dr8co@duck.com
+## 💫 Hi there, I'm Ian
 
+I am a software engineer with expertise in DevOps and Cloud engineering.
+I am passionate about designing and developing robust software systems that are
+scalable, maintainable, and efficient.
 
-# 💻 Tech Stack:
+I currently study software engineering at Holberton School and work part-time as a freelancer at Turing.
 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 	![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+In my free time, I enjoy listening to music and learning quantum computing.
 
-# 📊 GitHub Stats:
+📧 Contact me at dr8co@duck.com
 
-## Contributions in the last year
+## Skills and Expertise
+
+**Programming Languages:** Python, Java, JavaScript, C/C++, Go, SQL, MATLAB
+
+**Cloud:** AWS, GCP, Azure
+
+**Frameworks and other:** Docker, Kubernetes, Vagrant, HTML, CSS, Git, Ansible, CircleCI, Jenkins, CloudFormation, Flask, Nginx, Apache, HAProxy
+
+## 📊 GitHub Stats
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-## Total Contributions
+![](https://github-readme-stats.vercel.app/api?username=dr8co&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api?username=dr8co&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=dr8co&theme=radical&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dr8co&theme=radical&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dr8co&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
