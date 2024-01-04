@@ -8,7 +8,7 @@ I currently study software engineering at Holberton School and work part-time as
 
 In my free time, I enjoy listening to music and learning quantum computing.
 
-📧 Contact me at dr8co@duck.com
+Learn more about me at https://iandee.me
 
 ## Skills and Expertise
 
