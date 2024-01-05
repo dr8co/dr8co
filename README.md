@@ -4,7 +4,7 @@ I am a software engineer with a focus on DevOps and Cloud engineering.
 I am passionate about designing and developing robust software systems that are
 scalable, maintainable, and efficient.
 
-I currently study software engineering at Holberton School and work part-time as a freelancer at Turing.
+I currently freelance at [Turing](https://turing.com).
 
 In my free time, I enjoy listening to music and learning quantum computing.
 
