@@ -1,16 +1,23 @@
 ## 💫 Hi there, I'm Ian
 
-I am a software engineer with a focus on DevOps and Cloud engineering.
-I am passionate about designing and developing robust software systems that are
-scalable, maintainable, and efficient.
+Welcome to my GitHub! I'm a software engineer who loves building
+scalable and efficient software systems.
+
+When I'm not coding, you can find me exploring new technologies and
+working on exciting projects, or watching movies.
+
+Check out my website at [iandee.tech](https://iandee.tech "Ian's Website")
+or reach out via email at [ian@iandee.tech](mailto:ian@iandee.tech "Email Ian").
+
+Feel free to check out my repositories and see what I've been up to!
 
 ## Skills and Expertise
 
 **Programming Languages:** Python, Java, JavaScript, C/C++, Go, SQL, MATLAB
 
-**Cloud:** AWS, GCP, Azure
+**Cloud Platforms:** AWS, GCP.
 
-**Frameworks and other:** Docker, Kubernetes, Vagrant, HTML, CSS, Git, Ansible, CircleCI, Jenkins, CloudFormation, Flask, Nginx, Apache, HAProxy
+**Tools and Frameworks:** Docker, Kubernetes, Vagrant, HTML, CSS, Git, Ansible, CircleCI, Jenkins, CloudFormation, Flask, Nginx, Apache, HAProxy
 
 ## 📊 GitHub Stats
 
