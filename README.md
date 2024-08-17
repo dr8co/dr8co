@@ -6,9 +6,6 @@ scalable and efficient software systems.
 When I'm not coding, you can find me exploring new technologies and
 working on exciting projects, or watching movies.
 
-Check out my website at [iandee.tech](https://iandee.tech "Ian's Website")
-or reach out via email at [ian@iandee.tech](mailto:ian@iandee.tech "Email Ian").
-
 Feel free to check out my repositories and see what I've been up to!
 
 ## Skills and Expertise
