@@ -18,7 +18,13 @@ Feel free to check out my repositories and see what I've been up to!
 
 ## 📊 GitHub Stats
 
-![Profile 3D Contribution](./profile-3d-contrib/profile-night-rainbow.svg)
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/dr8co/dr8co/main/profile-3d-contrib/profile-night-rainbow.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dr8co/dr8co/main/profile-3d-contrib/profile-gitblock.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/dr8co/dr8co/main/profile-3d-contrib/profile-night-rainbow.svg" />
+	</picture>
+</p>
 
 ![Commit Stats](https://github-readme-stats.vercel.app/api?username=dr8co&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
