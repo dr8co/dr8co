@@ -29,7 +29,7 @@ For any inquiries, feel free to reach out via [email](mailto:dr8co@duck.com).
 * Learning Rust more deeply for systems and tooling.
 * Continuing to explore SIMD and low-level CPU behavior.
 
-## 📚 Tech I Enjoy
+## 💻 Tech I Enjoy
 
 **Languages:** C, C++, Rust, x86-64 asm, Go, Python, JavaScript
 
@@ -58,7 +58,3 @@ Whether it's kernel development, advanced cryptographic constructions, or squeez
    <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/dr8co/dr8co/main/profile-3d-contrib/profile-night-rainbow.svg" />
  </picture>
 </p>
-
-![Commit Stats](https://github-readme-stats.vercel.app/api?username=dr8co&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dr8co&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
